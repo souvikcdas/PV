@@ -1,0 +1,79 @@
+[33mcommit 34569dcd2dd1461ec0f0b37243db615351c455b6[m
+Author: Shrey Kejriwal <shreykejriwal@gmail.com>
+Date:   Thu Nov 12 15:36:44 2015 +0530
+
+    Added new files
+
+[33mcommit 6f92e8c9372faf9516261740c0fd1d43eb2c2554[m
+Author: Souvik Das <souvikcdas@gmail.com>
+Date:   Mon Nov 9 18:06:27 2015 +0530
+
+    Added Style
+
+[33mcommit d37deafc27889cb42fc5bbeff2a54dc6b79a9e81[m
+Merge: c6f7391 803c685
+Author: Souvik Das <souvikcdas@gmail.com>
+Date:   Mon Nov 9 17:57:12 2015 +0530
+
+    Merge branch 'master' of https://github.com/souvikcdas/PV
+
+[33mcommit c6f7391ea4328299eb083aa84e79f29fb71899bc[m
+Author: Souvik Das <souvikcdas@gmail.com>
+Date:   Mon Nov 9 17:55:45 2015 +0530
+
+    add new line in index
+
+[33mcommit 803c6850d0d1d93205d15b79dc18cb4bc97a3087[m
+Author: Shrey Kejriwal <shreykejriwal@gmail.com>
+Date:   Mon Nov 9 17:55:10 2015 +0530
+
+    Added new heading
+
+[33mcommit 03d591f8f1f34721629f464245392b42f767ed45[m
+Merge: 7b4fa5e ca50791
+Author: Souvik Das <souvikcdas@gmail.com>
+Date:   Mon Nov 9 17:51:09 2015 +0530
+
+    New Index
+
+[33mcommit ca50791fbb605d6e54a2036422279e6c69ac7541[m
+Author: Shrey Kejriwal <shreykejriwal@gmail.com>
+Date:   Mon Nov 9 17:44:18 2015 +0530
+
+    modified bat in index
+
+[33mcommit 7b4fa5ed40f868b0f78939f6b9a39412d51fbac9[m
+Author: Souvik Das <souvikcdas@gmail.com>
+Date:   Mon Nov 9 17:44:04 2015 +0530
+
+    Added Samsung and Blackberry
+
+[33mcommit 2194a7ceb24a06ac6f55cf1e37a438cdb30ac040[m
+Author: Souvik Das <souvikcdas@gmail.com>
+Date:   Mon Nov 9 17:37:13 2015 +0530
+
+    added ball in index
+
+[33mcommit bbc31be7254e32190f3945a28db1100676d6f24e[m
+Author: Souvik Das <souvikcdas@gmail.com>
+Date:   Mon Nov 9 17:34:33 2015 +0530
+
+    modified Index
+
+[33mcommit 2ad694747b84445d8fe2863468fd0b2dddd28a58[m
+Author: Souvik Das <souvikcdas@gmail.com>
+Date:   Mon Nov 9 17:30:51 2015 +0530
+
+    Added index
+
+[33mcommit 98b31884500e74fc2121cd8d67c389b0cc99ffb8[m
+Author: Souvik Das <souvikcdas@gmail.com>
+Date:   Mon Nov 9 17:27:04 2015 +0530
+
+    Changed Readme file
+
+[33mcommit ca92a3a45c251a733c22aa6d1f6da05e75fb5127[m
+Author: souvikcdas <souvikcdas@gmail.com>
+Date:   Mon Nov 9 17:08:44 2015 +0530
+
+    Initial commit
